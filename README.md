@@ -9,9 +9,9 @@ Olá, Mundo! 👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opablosantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=opablosantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=opablosantos)](https://github.com/anuraghazra/github-readme-stats)
+[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=opablosantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
