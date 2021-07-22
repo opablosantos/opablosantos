@@ -1,0 +1,63 @@
+https://player.vimeo.com/video/{{ $code }}
+
+[HC] Extra - HTML
+$code = 
+
+Introdução
+561057146
+
+Ferramentas de Trabalho
+561057289
+
+Estrutura HTML5
+561057438
+
+Tags e Atributos
+561057530
+
+Meta Tags
+561057651
+
+Incluir CSS e JS
+561057803
+
+Semântica
+561057983
+
+Textos
+561058067
+
+Links
+561058181
+
+Imagens
+561573151
+
+Vídeos
+561586928
+
+Listas
+561587079
+
+Tabelas
+561587186
+
+Divisões
+561587295
+
+Formulários
+561587448
+
+Acessibilidade na Web e WAI-ARIA
+561587618
+
+Acessibilidade Landmarks
+561587755
+
+Acessibilidade Linguagem Texto e Elementos
+Acessibilidade Tabelas
+Acessibilidade Imagens
+DOM
+DOM Métodos
+DOM Eventos
+Revisão
