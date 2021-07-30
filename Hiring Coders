@@ -55,9 +55,496 @@ Acessibilidade Landmarks
 561587755
 
 Acessibilidade Linguagem Texto e Elementos
+561587907
+
 Acessibilidade Tabelas
+561588012
+
 Acessibilidade Imagens
+561910063
+
 DOM
+561911091
+
 DOM Métodos
+561911175
+
 DOM Eventos
+561911320
+
 Revisão
+561911424
+
+
+[HC] Extra - CSS
+
+01 - Introdução ao CSS
+558133033
+
+02 - Tag Style
+558133134
+
+03 - Tipos de Propriedades CSS
+558133193
+
+04 - Propriedades: border, margin e padding
+558133304
+
+05 - Propriedades: cores e tipografia
+558133461
+
+06 - Introdução a Flexbox
+558133638
+
+07 - Flexbox: align e justify
+558132499
+
+08 - Flex-grow, flew-shrink e flex-basis
+558132649
+
+9 - Seletores
+558132759
+
+10 - Especificidade de Seletores CSS
+558132872
+
+11 - Utilizando CSS no HTML
+561056683
+
+12 - Media Queries
+558132939
+
+13 - Prática de CSS
+561056766
+
+14 - Prática: Flexbox
+561057014
+
+15 - Prática: Media Query
+561056466
+
+
+[HC] Extra - Estrutura de Dados
+
+Introdução
+409010808
+
+Pilhas I
+409008805
+
+Pilhas II
+409009092
+
+Filas e Listas
+409009414
+
+Busca I
+409009770
+
+Busca II
+483147997
+
+Algoritimos de Ordenação I
+409010300
+
+Algorítimos de Ordenação II
+409010563
+
+
+[HC] Extra - Metodologia Ágeis
+
+01 - Introdução Metodologias Ágeis
+539735332
+
+02 - Fundamentos da agilidade
+539735381
+
+03 - Manifesto Ágil
+539735944
+
+04 - Introdução ao Scrum
+539736886
+
+05 - A equipe Scrum
+539737337
+
+06 - Estudo de Caso
+539738049
+
+07 - Product Goal
+539738232
+
+08 - Product Backlog
+539738962
+
+09 - Estimativas
+539739838
+
+10 - Modelo Kano
+539735050
+
+11 - Definition of Done
+539736384
+
+12 - Sprint Planning
+539736961
+
+13 - Sprint Execution
+539737791
+
+14 - Sprint Review vs Sprint Retrospective
+539738299
+
+15 - Kanban
+539739359
+
+16 - Extreme Programming
+539740271
+
+17 - Modelo Spotify
+539740959
+
+18 - Scaled Agile Framework
+539741669
+
+
+[HC] Extra - Boas Práticas
+
+Introdução a boas práticas de desenvolvimento
+546671734
+
+Iniciando um projeto
+546668207
+
+Estruturando elementos
+546668699
+
+Nomeando as classes
+546669952
+
+Responsividade
+546670446
+
+Clean code
+546671006
+
+Considerações finais
+546671314
+
+
+[HC] Módulo 04 - JavaScript Básico
+
+O que é JavaScript?
+543389924
+
+02 - Variáveis
+543391002
+
+03 - Tipos de dados
+543390122
+
+04 - Operadores
+543390211
+
+05 - Condicionais
+543390324
+
+06 - Estrutura de Repetição
+543390386
+
+07 - Funções
+543390538
+
+08 - Classes
+543390613
+
+09 - Exercícios
+543390843
+
+
+[HC] Módulo 05 - JavaScript II
+
+01 - Revisão JavaScript Básico
+563221688
+
+02 - Tamplete String
+563229290
+
+03 - Operador Ternário
+563229344
+
+04 - Arrow Functions
+563236284
+
+05 - Arrays, Spread & Métodos
+563236308
+
+06 - Objetos Destructuring
+563787775
+
+07 - SPA, PWA E Webcomponents
+563880316
+
+08 - Projeto
+563835718
+
+
+[HC] Módulo 06 - Typescript
+
+01 - Introdução
+427575101
+
+02 - Instalando e Usando o TypeScript
+427575256
+
+03 - Tipos Básicos
+427580869
+
+04 - Tipo Never
+427580787
+
+05 - Múltiplos tipos com Union Types
+427573421
+
+06 - Type Alias
+427573579
+
+07 - Valores nulos ou opcionais
+427573796
+
+08 - Type Assertion
+427573973
+
+09 - Interfaces
+427574199
+
+10 - Classes
+427574321
+
+11 - Configurando o target do TypeScript
+427574618
+
+12 - Utilizando Modificadores de Acesso
+427574772
+
+13 - Herança
+427574947
+
+
+[HC] Módulo 07 - React
+
+01 - Por que React?
+570426059
+
+02 - Preparando o ambiente
+570426208
+
+03 - Fundamentos do React
+570426366
+
+04 - Consumindo dados de uma API
+570426657
+
+05 - Instalando e configurando react-router-dom
+570426851
+
+06 - Importando as rotas no componente App
+570426959
+
+07 - Organização, boas práticas e componentes de estilo
+570427034
+
+08 - Salvando dados no Storage
+570427264
+
+09 - Renderizando repositórios e programação declarativa
+570427343
+
+10 - Link react-router-dom
+570427493
+
+11 - Tratamento de erros e use History
+570427595
+
+12 - Conditional rendering
+570427649
+
+13 - Daqui pra frente e encerramento
+570427761
+
+
+[HC] Módulo 08 - GraphQL
+
+01 - Apresentação e Introdução
+429812904
+
+02 - Modelo Cliente e Servidor
+429813045
+
+03 - Padrão de Requisição e Resposta
+429813203
+
+04 - Iniciando o projeto de exemplo
+429813474
+
+05 - Criando o servidor
+429813654
+
+06 - Renderização, parâmetros e redirecionamentos
+429813867
+
+07 - Monorepo
+430155266
+
+08 - Pacote com React.js
+430155511
+
+09 - Rotas com react-router-dom
+430155866
+
+10 - Mudando server para express
+430156213
+
+11 - Requisição assíncrona
+430156852
+
+12 - Resolvendo CORS
+430157528
+
+13 - APIs RESTful
+430154724
+
+14 - Apollo Server
+430561329
+
+15 - TypeDefs e resolvers
+430561842
+
+16 - Introdução a GraphQL Query
+430562154
+
+17 - Criando GraphQL Queries
+430562222
+
+18 - Paginação, ordenação e filtros
+430562785
+
+19 - GraphQL Mutation
+431593905
+
+20 - Mutation para alterar e excluir clients
+431594445
+
+21 - Configurando o Apollo Link
+431588441
+
+22 - Criando o Apollo Link, o Logger
+431589048
+
+23 - Apollo Client e Apollo DevTools
+431589316
+
+24 - Hook useQuery e paginação
+431590135
+
+25 - Hook useMutation
+431592851
+
+
+[HC] Módulo 09 - Node.JS Parte I
+
+01 - Introdução Fundamentos de Node
+02 - Definição de back-end e front-end
+03 - Definição de Node
+04 - Benchmark Node
+05 - Instalação do Node
+06 - Prática "Hello World" em Node
+07 - Documentações de apoio sobre Node
+08 - O problema de gerenciamento de pacotes
+09 - Como funciona NPM
+10 - Prática de NPM
+11 - Documentações de apoio sobre NPM
+12 - Definição de JavaScript
+13 - Prática de desenvolvimento em JavaScript
+14 - Documentações sobre JavaScript
+15 - Definição de TypeScript
+16 - Prática de desenvolvimento em TypeScript
+17 - Documentações de apoio sobre TypeScript
+18 - Finalização
+19 - Introdução entendendos os conceitos de REST e SOAP
+20 - Configurando Nodemon
+21 - Configurando Docker
+22 - Configurando ElephantSQL e PostBird
+23 - ORM
+24 - Migration usuários
+25 - Model usuários
+26 - Controller usuários
+27 - Hashde senhas usuários
+28 - Autenticação JWT
+29 - Token JWT via Header
+30 - Atualizando usuário
+31 - Validação de dados
+32 - Adicionando foto do usuário
+33 - Vinculando fotos ao usuário
+34 - Listagem de prestadores de serviços
+35 - Models de agendamento
+36 - Criando agendamentos
+
+
+[HC] Módulo 10 - Node.JS Parte II
+
+01 - Validações e listagem de agendamentos
+02 - Paginação e Listagem de agenda do colaborador
+03 - Configurando o MONGODB e configurando as notificações
+04 - Listando notificações e marcando como lidas
+05 - Final do módulo
+06 - Introdução REST API
+07 - O que é REST API
+08 - Recursos: coleção, elemento e sub-elemento
+09 - Endpoints
+10 - Métodos REST
+11 - Versionamento de API
+12 - Status Codes
+13 - Documentação de referência REST API
+14 - O que é DX
+15 - O que é uma documentação de API
+16 - Utilizando o Swagger - Parte 1
+17 - Utilizando o Swagger - Parte 2
+18 - Documentação de referência Swagger
+19 - O que é o Express
+20 - Conhecendo o Postman
+21 - Prática de Express - Parte 1
+22 - Prática de Express - Parte 2
+23 - Prática de Express - Parte 3
+24 - Prática de Express - Parte 4
+25 - Documentação de referência Express
+26 - Segurança: Acesso não autorizado
+27 - Segurança: Ataques de integridade
+28 - Segurança: Sobrecarga
+29 - Segurança: Confidencialidade
+30 - Segurança: Implementações equivocadas
+31 - Introdução Consumo de API terceiras
+32 - A importância da integração com terceiros
+33 - Como se preparar para integrar
+34 - O que é o Node-Fetch
+35 - Prática de integração com Node-Fetch - Parte 1
+36 - Prática de integração com Node-Fetch - Parte 2
+37 - Prática de integração com Node-Fetch - Parte 3
+38 - Prática de integração com Node-Fetch - Parte 4
+39 - O que é o Axios
+40 - Prática de integração com Axios - Parte 1
+41 - Prática de integração com Axios - Parte 2
+42 - Prática de integração com Axios - Parte 3
+43 - Finalização
+
+
+[HC] Módulo 11 - Devops
+
+01 - O que é Devops
+02 - Porque devo adotar a cultura Devops
+03 - História do Devops
+04 - Conceito do Devops
+05 - CAMS
+06 - PPT - pessoas, projetos e tecnologias
+07 - Devops Ágil
+08 - CI/CD
