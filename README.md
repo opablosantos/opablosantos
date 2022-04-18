@@ -1,7 +1,7 @@
 Olá, Mundo! 👋
 ---
 
-- 🔭 *Estou atualmente trabalhando com suporte de TI.*
+- 🔭 *Estou atualmente trabalhando com Sistemas de Automação.*
 - 🌱 *Atualmente focado em aprender* [<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />](https://laravel.com/)
 - 📫 ***Como entrar em contato comigo:***
 
