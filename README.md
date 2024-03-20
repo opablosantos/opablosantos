@@ -1,6 +1,5 @@
 Olá, Mundo! 👋
 ---
-
 - 🔭 *Estou atualmente trabalhando com Sistemas de Automação.*
 - 🌱 *Atualmente focado em aprender* [<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactnative.dev)
 - 📫 ***Como entrar em contato comigo:***
@@ -29,11 +28,17 @@ Olá, Mundo! 👋
 
 ---
 ## Linguagens que mais estou usando:
+<img width="500px" src="https://wakatime.com/share/@opablosantos/ce2eb2e3-0cdc-415d-aed2-b7cae52390cc.svg" />
+<!--
 [![Linguagens mais usadas](https://github-readme-stats-opablosantos-projects.vercel.app/api/top-langs/?username=opablosantos&layout=compact&hide_title=true&hide_border=true)](https://github.com/opablosantos/github-readme-stats)
+-->
 
 ---
 ## O que eu fiz essa semana:
+<img width="500px" src="https://wakatime.com/share/@opablosantos/64fa0632-84aa-413d-814e-83bde8543f23.svg" />
+<!--
 [![Status semanal](https://github-readme-stats-opablosantos-projects.vercel.app/api/wakatime?username=opablosantos&layout=compact&hide_title=true&hide_border=true)](https://github.com/opablosantos/github-readme-stats)
+-->
 
 ---
 ## Me pague um café: 
