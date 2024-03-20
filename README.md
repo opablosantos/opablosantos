@@ -25,11 +25,11 @@ Olá, Mundo! 👋
 
 ---
 ## Linguagens que mais estou usando:
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=opablosantos&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://https://github-readme-stats-opablosantos-projects.vercel.app/api/top-langs/?username=opablosantos&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## O que eu fiz essa semana:
-[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=opablosantos&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Status semanal](https://https://github-readme-stats-opablosantos-projects.vercel.app/api/wakatime?username=opablosantos&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Me pague um café: 
