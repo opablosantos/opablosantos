@@ -24,12 +24,16 @@ Olá, Mundo! 👋
 [<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>](https://www.postgresql.org/)
 
 ---
+## Status Geral:
+<img alt="Pablo's GitHub Stats" src="https://github-readme-stats-opablosantos-projects.vercel.app/api?username=opablosantos&showicons=true&hideborder=true"/>
+
+---
 ## Linguagens que mais estou usando:
-[![Linguagens mais usadas](https://https://github-readme-stats-opablosantos-projects.vercel.app/api/top-langs/?username=opablosantos&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats-opablosantos-projects.vercel.app/api/top-langs/?username=opablosantos&layout=compact&hide_title=true&hide_border=true)](https://github.com/opablosantos/github-readme-stats)
 
 ---
 ## O que eu fiz essa semana:
-[![Status semanal](https://https://github-readme-stats-opablosantos-projects.vercel.app/api/wakatime?username=opablosantos&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Status semanal](https://github-readme-stats-opablosantos-projects.vercel.app/api/wakatime?username=opablosantos&layout=compact&hide_title=true&hide_border=true)](https://github.com/opablosantos/github-readme-stats)
 
 ---
 ## Me pague um café: 
